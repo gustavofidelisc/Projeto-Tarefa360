@@ -1,0 +1,17 @@
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\bin\Debug\net6.0\Projeto360.Repositorio.deps.json
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\bin\Debug\net6.0\Projeto360.Repositorio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\bin\Debug\net6.0\Projeto360.Repositorio.pdb
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.AssemblyInfo.cs
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\refint\Projeto360.Repositorio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.pdb
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\ref\Projeto360.Repositorio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\bin\Debug\net6.0\Projeto360.Repositorio.runtimeconfig.json
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto360.Repositorio.genruntimeconfig.cache
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\bin\Debug\net6.0\Projeto360.Dominio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\bin\Debug\net6.0\Projeto360.Dominio.pdb
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net6.0\Projeto3.3DC9F0D7.Up2Date

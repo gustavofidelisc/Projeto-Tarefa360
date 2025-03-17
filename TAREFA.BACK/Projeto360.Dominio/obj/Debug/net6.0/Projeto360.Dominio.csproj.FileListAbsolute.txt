@@ -1,0 +1,11 @@
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\bin\Debug\net6.0\Projeto360.Dominio.deps.json
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\bin\Debug\net6.0\Projeto360.Dominio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\bin\Debug\net6.0\Projeto360.Dominio.pdb
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\Projeto360.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\Projeto360.Dominio.AssemblyInfoInputs.cache
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\Projeto360.Dominio.AssemblyInfo.cs
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\Projeto360.Dominio.csproj.CoreCompileInputs.cache
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\Projeto360.Dominio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\refint\Projeto360.Dominio.dll
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\Projeto360.Dominio.pdb
+C:\Alunos\GustavoFidelis\GustavoFidelis\Modulo8-ArquiteturaDeSolucoes\projetos\Projeto360\Projeto360.Dominio\obj\Debug\net6.0\ref\Projeto360.Dominio.dll

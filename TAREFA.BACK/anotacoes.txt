@@ -1,0 +1,27 @@
+Criar um projeto com um arquivo sln 
+dotnet new sln -o nome
+dotnet new classlib -o Projeto360.nome , biblioteca de codigo, armazena todas as entidades, todas as camadas
+dotnet sln caminhoDoProjetoPrincipal add caminhoDoSubProjeto
+
+adicionar referencia de uma biblioteca na outra dotnet add reference caminhodoDo csproj 
+
+
+Models, classes que são expostas para o mundo externo
+
+Arquiterura de camadas 
+
+
+Aplicacao, onde fica toda minha logica de negocio utilizando interfaces para expor para minha Api, com a aplicacao (classe), preciso ter acesso ao dominio e ao repositorio, e sercicos ja que vou manipular a logica de negocio la 
+
+Repositorio onde comunica com o banco de dados e possui tbm uma interface onde posso export meus metodos, fazendo um mapeamento de quais classes terei no meu banco, criando o contexto que realmente faz a ligacao com o banco, e o repositorio que sao os metodos que vou expor pela interface, no qual faz o CRUD basico ou mais. precsio apenas do dominio para saber qual é a entidade que vou criar no banco 
+
+Servico onde vou consumir a API de terceiros para fazer alguma coisa, utilizando intefaces para export meus metodos, o servico que é onde realmente tem o servico de terceiro e o models que é o modelo de como devo receber do terceiro, preciso do dominio para saber como sera convertido para minha logica
+
+
+Dominio é onde vou transportar meus dados, sendo onde coloco minhas entidades e onde vou possuir meus enumeradores. Não preciso de acesso nenhum
+
+Por fim a camdada de apresentacao que sera a camada onde, nesse caso vou apresentar minhas controllers por meio de uma api, e utilizando swagger, preciso do acesso a aplicacao, dominio e o repositorio para fazer manipulacoes, no meu programa principal nao posso esquecer de fazer a injeção de depedencia, as intefaces que estou utlziando 
+
+builder.Services.AddScoped<ITarefaAplicacao, TarefaAplicacao>();
+
+para manter minha aplicacao segura utilzar tbm a url do banco fora do codigo no caso do sqlite mantendo eum appsetting.json onde coloco no caso do sqlite a connectionString do meu banco que basicamente é o nome do arquivo sql lite que está presente no meu repositorio
